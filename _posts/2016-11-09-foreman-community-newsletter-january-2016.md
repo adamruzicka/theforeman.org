@@ -16,6 +16,8 @@ Foreman 1.10 was released on 23rd of December 2015 making it an early Christmas 
 ### Katello 2.4 is out
 Katello 2.4 which brings a number of improvements was released on 5th of January 2016, shortly after Foreman's 1.10 release. This release provides compatibility with Foreman 1.10, migrates most objects from Elasticsearch to scoped_search and lots of improvements and bugxies. Check out the [release notes](http://www.katello.org/docs/2.4/release_notes/release_notes.html) for a full list of updates.
 
+Thanks to everyone who contributed to these releases - code, testing, bug reports, translations, your efforts are very much appreciated!
+
 ### New and updated plugins since last December's newsletter
   - [foreman-tasks](https://github.com/theforeman/foreman-tasks) updated to 0.7.10 on 7th of January 2016
   - [foreman_setup](https://github.com/theforeman/foreman_setup) updated to 3.1.0 on 6th of January 2016
